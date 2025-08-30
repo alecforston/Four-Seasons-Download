@@ -9,9 +9,15 @@ Four Seasons Chess, also known as El Acedrex de Los Quatros Tiempos (The Chess o
 </p>
 
 # Gameplay
-[Img1](Screenshot_20250830_164104.png)
-[Img2](Screenshot_20250830_164141.png)
-[Img3](Screenshot_20250830_165057.png)
+<p align="center">
+  <img src="/Screenshot_20250830_164104.png" width=800></img>
+</p>
+<p align="center">
+  <img src="/Screenshot_20250830_164141.png" width=800></img>
+</p>
+<p align="center">
+  <img src="/Screenshot_20250830_165057.png" width=800></img>
+</p>
 
 # Download
 [File](fourseasons-multiplayer-v0.3.rar)
