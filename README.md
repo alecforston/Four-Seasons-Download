@@ -3,7 +3,10 @@ Download and extract the rar file to start playing.
 
 # About
 Four Seasons Chess, also known as El Acedrex de Los Quatros Tiempos (The Chess of the Four Seasons), is a historical four-player chess variant that dates back to the 13th century. 
-[Inspiration](screenshot.png)
+
+<p align="center">
+  <img src="/screenshot.png" width=800></img>
+</p>
 
 # Gameplay
 [Img1](Screenshot_20250830_164104.png)
