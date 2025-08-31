@@ -21,3 +21,4 @@ Four Seasons Chess, also known as El Acedrex de Los Quatros Tiempos (The Chess o
 
 # Download
 [File](fourseasons-multiplayer-v0.3.rar)
+[Zip File](fourseasons-multiplayer-v0.3.zip)
