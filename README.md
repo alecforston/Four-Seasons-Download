@@ -1,11 +1,9 @@
 # Four-Seasons-Download
 Download and extract the rar file to start playing.
 
-[Zip File](https://github.com/alecforston/Four-Seasons-Download/raw/main/fourseasons-multiplayer-v0.6.1zip)
+[Linux Download](fourseasons-multiplayer-v0.6.1-linux.rar)
 
-[rar File](https://github.com/alecforston/Four-Seasons-Download/raw/main/fourseasons-multiplayer-v0.6.1rar)
-
-[tar.gz File](https://github.com/alecforston/Four-Seasons-Download/raw/main/fourseasons-multiplayer-v0.6.1.tar.gz)
+[Windows Download](fourseasons-multiplayer-v0.6.1-windows.zip)
 
 # About
 Four Seasons Chess, also known as El Acedrex de Los Quatros Tiempos (The Chess of the Four Seasons), is a historical four-player chess variant that dates back to the 13th century. 
@@ -26,8 +24,6 @@ Four Seasons Chess, also known as El Acedrex de Los Quatros Tiempos (The Chess o
 </p>
 
 # Download
-[Zip File](https://github.com/alecforston/Four-Seasons-Download/raw/main/fourseasons-multiplayer-v0.6.1zip)
+[Linux Download](fourseasons-multiplayer-v0.6.1-linux.rar)
 
-[rar File](https://github.com/alecforston/Four-Seasons-Download/raw/main/fourseasons-multiplayer-v0.6.1rar)
-
-[tar.gz File](https://github.com/alecforston/Four-Seasons-Download/raw/main/fourseasons-multiplayer-v0.6.1.tar.gz)
+[Windows Download](fourseasons-multiplayer-v0.6.1-windows.zip)
