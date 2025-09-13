@@ -1,5 +1,5 @@
 # Four-Seasons-Download
-Download and extract the rar file to start playing.
+Download and extract the rar file to start playing Four Seasons Chess.
 
 [Linux Download](fourseasons-multiplayer-v0.6.1-linux.rar)
 
